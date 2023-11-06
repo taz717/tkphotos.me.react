@@ -7,7 +7,7 @@ import React from "react";
 import About from "../containers/About";
 import Home from "../containers/Home";
 import Portfolio from "../containers/Portfolio";
-import Contact from "../containers/Contract";
+import Contact from "../containers/Contact";
 
 export default function Main() {
 	return <div>yeet</div>;
